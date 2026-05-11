@@ -31,8 +31,6 @@
   - https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
 - K8s Custom Resources (CRD):
   - https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/
-- Rook Cluster Update Design (design/ 폴더, 클러스터 컨트롤러 설계):
-  - https://github.com/rook/rook/blob/master/design/ceph/cluster-update.md
 
 
 ### 3주차
